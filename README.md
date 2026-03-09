@@ -22,4 +22,6 @@ If you use this dataset, please cite our paper:
 [Your paper citation here]
 
 ## License
-CC BY 4.0
+This dataset is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+Free for academic use only. Commercial use is strictly prohibited.
+Contact:samira.lagrini@univ-annaba.dz
