@@ -15,7 +15,8 @@ reviews for sentiment analysis and personalized recommendation.
 
 ## Files
 - `lsahr_unbalanced.csv` — full dataset
-- `lsahr_balanced.csv` — balanced version
+- `lsahr_balanced.csv` — balanced version (not annotated)
+- `lsahr.csv` — balanced version (annotated version)
 
 ## Citation
 If you use this dataset, please cite our paper:
