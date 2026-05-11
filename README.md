@@ -11,12 +11,14 @@ reviews for sentiment analysis and personalized recommendation.
 
 ## Versions
 - Unbalanced version: 292,460 reviews
+- [Download Dataset](https://drive.google.com/uc?export=download&id=1BdrVWDfyMPA2XYZu08teVJxYYsB28pzv)
 - Balanced version: 122,679 reviews
 
 ## Files
 - `lsahr_unbalanced.csv` — full dataset
 - `lsahr_balanced.csv` — balanced version (not annotated)
 - `lsahr.csv` — balanced version (annotated version)
+
 
 ## Citation
 If you use this dataset, please cite our paper:
