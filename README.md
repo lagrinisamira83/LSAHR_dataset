@@ -19,7 +19,7 @@ reviews for sentiment analysis and personalized recommendation.
 
 ## Citation
 If you use this dataset, please cite our paper:
-[Your paper citation here]
+S. Lagrini, M. Kadri, N. Kadri, A. S. Horchi, and M. S. E. I. Deneche, “LSAHR: Large-Scale Arabic Hotel Review Dataset for Personalized Recommendation,” in Proc. 1st Int. Conf. on Speech, Multimodal, and Advanced Communication Systems (IEEE-ICSMACS 2026), Algeria, Jun. 2026.
 
 ## License
 This dataset is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
